@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(160, 189, 241);
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Playfair Display', serif;
+}
+
+
+
+#paragraph{
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(22, 30, 110);
+    position: absolute; top: 20px; left: 100px; right: 100px;
+    padding: 25px;
+    background-color: #f0f8ff;
+    font-size: 30px;
+}
+
+#intro{
+    border-style: dashed;
+    border-width: 3px;
+    border-color: rgb(22, 30, 110);
+    position: absolute; top: 400px; left: 100px; right: 100px; 
+    padding: 30px;
+    background-color: navy;
+    font-size: 100px;
+    font-family: 'Alumni Sans Inline One', cursive;
+    color: rgb(160, 189, 241);
+}
+
+#page{
+    background-color: whitesmoke;
+    height: 2100px;
+    width: 1350px;
+    position: absolute; top: 35px; left: 40px;
+}
+
+#entry1{
+    position: absolute; top: 575px; left: 100px; right: 100px; 
+    padding: 20px;
+    background-color: aliceblue;
+    font-size: 25px;
+    offset-position: 25px;
+}
+
+#paragraph2{
+    position: absolute; top: 200px; left: 100px;
+}
